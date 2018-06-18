@@ -509,3 +509,7 @@ Name, Organization, and (optionally) Contact Info
    * GitHub: siddiquf
    * Email: siddiquf@dickinson.edu
 
+* Denise Ferebee, LeMoyne-Owen College
+   * GitHub: dferebee
+   * Email: denise_ferebee@loc.edu
+
