@@ -511,5 +511,5 @@ Name, Organization, and (optionally) Contact Info
 
 * Denise Ferebee, LeMoyne-Owen College
    * GitHub: dferebee
-   * Email: denise_ferebee@loc.edu
+  
 
